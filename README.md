@@ -17,3 +17,9 @@
 - [Apr 2023, TQ2A.230405.003.E1, patched with Magisk 26.1](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_04_TQ2A.230405.003.E1_26100.img)
 - [May 2023, TQ2A.230505.002, patched with Magisk 26.1](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_05_TQ2A.230505.002_26100.img)
 - [Jun 2023, TQ3A.230605.012, patched with Magisk 26.1](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_06_TQ3A.230605.012_26100.img)
+
+
+## Sources:
+
+- [Factory Images for Pixel 7 Pro (cheetah)](https://developers.google.com/android/images#cheetah)
+- [Magisk](https://github.com/topjohnwu/Magisk)
