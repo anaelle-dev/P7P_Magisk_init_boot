@@ -1,9 +1,9 @@
 # Google Pixel 7 Pro magisk patched init_boot files
 
 ## Idk why I did this but I did this
-## Of course, it's safer to patch the images yourself because you can't trust me 100% by telling you that I only patched these images with Magisk and that I didn't do anything else with these images...
+Of course, it's safer to patch the images yourself because you can't trust me 100% by telling you that I only patched these images with Magisk and that I didn't do anything else with these images...
 But I didn't
-But you can trust me 100% 
+But you can 100% trust me
 
 ### fastboot flash init_boot init_boot.img
 
