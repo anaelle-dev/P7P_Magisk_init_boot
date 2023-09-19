@@ -7,7 +7,7 @@ But I didn't
 
 But you can't 100% trust me
 
-### fastboot flash init_boot init_boot.img
+### fastboot flash init_boot {path_to_init_boot.img}
 
 
 ## Android 13:
