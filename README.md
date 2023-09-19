@@ -24,6 +24,7 @@ But you can 100% trust me
 - [Jun 2023, TQ3A.230605.012, patched with Magisk 26.1](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_06_TQ3A.230605.012_26100.img)
 - [Jul 2023, TQ3A.230705.001, patched with Magisk 26.1](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_07_TQ3A.230705.001_26100.img)
 - [Aug 2023, TQ3A.230805.001, patched with Magisk 26.1](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_08_TQ3A.230805.001_26100.img)
+- [Sep 2023, TQ3A.230901.001, patched with Magisk 26.3](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_09_TQ3A.230901.001_26300.img)
 
 
 ## Sources:
