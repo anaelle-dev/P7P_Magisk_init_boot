@@ -5,7 +5,7 @@ Of course, it's safer to patch the images yourself because you can't trust me 10
 
 But I didn't
 
-But you can 100% trust me
+But you can't 100% trust me
 
 ### fastboot flash init_boot init_boot.img
 
