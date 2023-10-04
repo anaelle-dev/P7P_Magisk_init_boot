@@ -27,6 +27,11 @@ But you can't 100% trust me
 - [Sep 2023, TQ3A.230901.001, patched with Magisk 26.3](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_09_TQ3A.230901.001_26300.img)
 
 
+## Android 14:
+
+- [Oct 2023, UP1A.231005.007, patched with Magisk 26.3](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_10_UP1A.231005.007_26300.img)
+
+
 ## Sources:
 
 - [Factory Images for Pixel 7 Pro (cheetah)](https://developers.google.com/android/images#cheetah)
