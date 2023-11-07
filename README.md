@@ -30,6 +30,7 @@ But you can't 100% trust me
 ## Android 14:
 
 - [Oct 2023, UP1A.231005.007, patched with Magisk 26.3](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_10_UP1A.231005.007_26300.img)
+- [Nov 2023, UP1A.231105.003, patched with Magisk 26.4](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_11_UP1A.231105.003_26400.img)
 
 
 ## Sources:
