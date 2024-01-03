@@ -40,4 +40,4 @@ But you can't 100% trust me
 
 - [Factory Images for Pixel 7 Pro (cheetah) ](https://developers.google.com/android/images#cheetah)[from **Google**](https://source.android.com/docs/setup/about)
 - [Magisk ](https://github.com/topjohnwu/Magisk)[by **topjohnwu**](https://github.com/topjohnwu)
-- [Kitsune Mask (aka Magisk Delta) by **HuskyDG** ](https://github.com/HuskyDG/magisk-files/blob/main/main.md)[by **HuskyDG**](https://github.com/HuskyDG)
+- [Kitsune Mask (aka Magisk Delta) ](https://github.com/HuskyDG/magisk-files/blob/main/main.md)[by **HuskyDG**](https://github.com/HuskyDG)
