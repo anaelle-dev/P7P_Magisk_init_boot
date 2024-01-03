@@ -33,10 +33,11 @@ But you can't 100% trust me
 - [Nov 2023, UP1A.231105.003, patched with Magisk 26.4](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_11_UP1A.231105.003_26400.img)
 - [Dec 2023, UQ1A.231205.015, patched with Magisk 26.4](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_12_UQ1A.231205.015_26400.img)
 - [Jan 2024, UQ1A.240105.004, patched with Kitsune Mask R6592CA0F (Magisk Delta 26404)](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_01_UQ1A.240105.004_26404.img)
-<br>**⚠️ ↑ doesn't seem to work: initiates a bootloop, even in safe mode, and even with magisk stable from topjohnwu ↑ ⚠️**
+**⚠️ ↑ doesn't seem to work: initiates a bootloop, even in safe mode, and even with magisk stable from topjohnwu ↑ ⚠️**
 
 
 ## Sources:
 
-- [Factory Images for Pixel 7 Pro (cheetah)](https://developers.google.com/android/images#cheetah)
-- [Magisk](https://github.com/topjohnwu/Magisk)
+- [Factory Images for Pixel 7 Pro (cheetah) from **Google**](https://developers.google.com/android/images#cheetah)
+- [Magisk by **topjohnwu**](https://github.com/topjohnwu/Magisk)
+- [Kitsune Mask (aka Magisk Delta) by **HuskyDG**](https://github.com/HuskyDG/magisk-files/blob/main/main.md)
