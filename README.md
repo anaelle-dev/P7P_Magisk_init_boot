@@ -34,6 +34,7 @@ But you can't 100% trust me, so stay careful
 - [Dec 2023, UQ1A.231205.015, patched with Magisk 26.4](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/23_12_UQ1A.231205.015_26400.img)
 - [Jan 2024, UQ1A.240105.004, patched with Magisk 26.4](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_01_UQ1A.240105.004_26400.img)
 - [Feb 2024, UQ1A.240205.002, patched with Magisk 27.0](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_02_UQ1A.240205.002_27000.img)
+- [Mar 2024, AP1A.240305.019.A1, patched with Magisk 27.0](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_03_AP1A.240305.019.A1_27000.img)
 
 
 ## Sources:
