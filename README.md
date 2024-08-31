@@ -12,6 +12,7 @@ But you can't 100% trust me, so stay careful
 
 ## Android 14:
 
+- [Aug 2024, AP2A.240805.005, patched with Magisk 27.0](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_08_AP2A.240805.005_27000.img)
 - [Jul 2024, AP2A.240705.004, patched with Magisk 27.0](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_07_AP2A.240705.004_27000.img)
 - [Jun 2024, AP2A.240605.024, patched with Magisk 27.0](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_06_AP2A.240605.024_27000.img)
 - [May 2024, AP1A.240505.005, patched with Magisk 27.0](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_05_AP1A.240505.005_27000.img)
