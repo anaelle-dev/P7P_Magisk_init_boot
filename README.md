@@ -9,6 +9,9 @@ But you can't 100% trust me, so stay careful
 
 ### fastboot flash init_boot {path_to_init_boot.img}
 
+## Android 15:
+
+- Oct 2024
 
 ## Android 14:
 
