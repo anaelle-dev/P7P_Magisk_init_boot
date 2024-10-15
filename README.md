@@ -1,17 +1,10 @@
 # Google Pixel 7 Pro Magisk patched init_boot.img files
 
-## Idk why I did this but I did this
-Of course, it's safer to patch the images yourself because you can't trust me 100% by telling you that I only patched these images with Magisk and that I didn't do anything else with these images...
-
-But I didn't
-
-But you can't 100% trust me, so stay careful
-
 ### fastboot flash init_boot {path_to_init_boot.img}
 
 ## Android 15:
 
-- Oct 2024
+- [Oct 2024, AP3A.241005.015, patched with Magisk 28.0](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_10_AP3A.241005.015_28000.img)
 
 ## Android 14:
 
