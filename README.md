@@ -4,6 +4,7 @@
 
 ## Android 15:
 
+- [Nov 2024, AP3A.241105.007, patched with Magisk 28.0](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_11_AP3A.241105.007_28000.img)
 - [Oct 2024, AP3A.241005.015, patched with Magisk 28.0](https://github.com/Traaanaelle/P7P_Magisk_init_boot/raw/main/24_10_AP3A.241005.015_28000.img)
 
 ## Android 14:
