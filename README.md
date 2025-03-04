@@ -4,6 +4,7 @@
 
 ## Android 15:
 
+- [Mar 2025, BP1A.250305.019, patched with Magisk 28.1](https://github.com/anaelle-dev/P7P_Magisk_init_boot/raw/main/25_03_BP1A.250305.019_28100.img)
 - [Feb 2025, AP4A.250205.002, patched with Magisk 28.1](https://github.com/anaelle-dev/P7P_Magisk_init_boot/raw/main/25_02_AP4A.250205.002_28100.img)
 - [Jan 2025, AP4A.250105.002, patched with Magisk 28.1](https://github.com/anaelle-dev/P7P_Magisk_init_boot/raw/main/25_01_AP4A.250105.002_28100.img)
 - [Dec 2024, AP4A.241205.013, patched with Magisk 28.0](https://github.com/anaelle-dev/P7P_Magisk_init_boot/raw/main/24_12_AP4A.241205.013_28000.img)
