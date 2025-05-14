@@ -2,7 +2,7 @@
 
 ### fastboot flash init_boot {path_to_init_boot.img}
 
-## Android 15:
+## Android 16:
 
 - Jun 2025, ????.250605.???, patched with Magisk 29.0
 
