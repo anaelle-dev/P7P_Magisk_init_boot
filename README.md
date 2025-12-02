@@ -4,6 +4,7 @@
 
 ## Android 16:
 
+- [Dec 2025, BP4A.251205.006, patched with Magisk 30.6](https://github.com/anaelle-dev/P7P_Magisk_init_boot/raw/main/25_12_BP4A.251205.006_30600.img)
 - [Oct 2025, BP3A.251005.004.B2, patched with Magisk 29.0](https://github.com/anaelle-dev/P7P_Magisk_init_boot/raw/main/25_10_BP3A.251005.004.B2_29000.img)
 - [Oct 2025, BP3A.251005.004.B1, patched with Magisk 29.0](https://github.com/anaelle-dev/P7P_Magisk_init_boot/raw/main/25_10_BP3A.251005.004.B1_29000.img)
 - [Sep 2025, BP3A.250905.014, patched with Magisk 29.0](https://github.com/anaelle-dev/P7P_Magisk_init_boot/raw/main/25_09_BP3A.250905.014_29000.img)
